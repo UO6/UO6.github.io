@@ -44,9 +44,9 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : "R_kgDOIE2urg" # Shown during giscus setup at https://giscus.app
-    category_name        : "Announcements" # Full text name of the category
-    category_id          : "DIC_kwDOIE2urs4CSWRt" # Shown during giscus setup at https://giscus.app
+    repo_id              : "R_kgDOLrAc4A" # Shown during giscus setup at https://giscus.app
+    category_name        : "General" # Full text name of the category
+    category_id          : "DIC_kwDOLrAc4M4CejFt" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
