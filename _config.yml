@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "beeeing lazy"
 title_separator          : "-"
-subtitle                 : "?" # site tagline that appears below site title in masthead
+subtitle                 : "이것저것 소소하게 적는 블로그" # site tagline that appears below site title in masthead
 name                     : "HyoGon Kim"
 description              : ""
 url                      : "https://uo6.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "이름"
-  avatar           : "/assets/images/pigbear.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/OIG2.SyvvDTY12.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "..."
   location         : "South Korea"
-  # email            : "gzz12345@naver.com"
+  email            : "gzz12345@gmail.com"
   # github           : 
   # links:
   #   - label: "Email"

@@ -1,7 +1,8 @@
 ---
-title: "지속가능한"
+title: "작업
+"
 layout: archive
-permalink: categories/sustainable
+permalink: categories/work
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +11,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['지속가능한'] %}
+{% assign posts = site.categories['work'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

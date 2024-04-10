@@ -1,7 +1,7 @@
 ---
-title: "후기"
+title: "할 것"
 layout: archive
-permalink: categories/diary
+permalink: categories/todo
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['diary'] %}
+{% assign posts = site.categories['todo'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
