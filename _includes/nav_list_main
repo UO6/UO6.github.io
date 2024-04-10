@@ -11,8 +11,8 @@
         <span class="nav__sub-title">지속가능한</span>
         <ul>
             {% for category in site.categories %}
-                {% if category[0] == "work" %}
-                    <li><a href="/categories/todo" class="">할것 ({{category[1].size}})</a></li>
+                {% if category[0] == "todo" %}
+                    <li><a href="/categories/todo" class="">할 것 ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
         </ul>
@@ -25,8 +25,8 @@
         </ul>
         <ul>
             {% for category in site.categories %}
-                {% if category[0] == "work" %}
-                    <li><a href="/categories/eplilog" class="">후기 ({{category[1].size}})</a></li>
+                {% if category[0] == "epilogue" %}
+                    <li><a href="/categories/epilogue" class="">후기 ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
         </ul>
